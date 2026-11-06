@@ -2,7 +2,7 @@
 
 > **Mini-Projeto 1** desenvolvido durante o curso de Fundamentos de Linguagem Python da Data Science Academy (DSA). Focado em traduzir dados brutos em inteligência de negócio.
 
-## 📌 O Problema de Negócio
+## O Problema de Negócio
 
 Uma loja de e-commerce em fase de crescimento rápido possui um grande volume de transações diárias, mas esbarra na incapacidade de extrair valor estratégico de seus dados brutos. Decisões baseadas em intuição têm gerado os seguintes desafios operacionais:
 
@@ -11,7 +11,7 @@ Uma loja de e-commerce em fase de crescimento rápido possui um grande volume de
 - **Perda de Oportunidades Sazonais:** Falta de planejamento promocional estratégico por ausência de análise de tendências temporais.
 - **Expansão sem Direção:** Dificuldade em identificar quais mercados regionais justificam maior esforço logístico.
 
-## 🎯 Objetivos da Análise
+## Objetivos da Análise
 
 O projeto aplica análise exploratória de dados (EDA) para responder a 4 perguntas fundamentais:
 
@@ -20,7 +20,7 @@ O projeto aplica análise exploratória de dados (EDA) para responder a 4 pergun
 3.  **Quando agir?** Analisar a performance temporal para mapear picos e sazonalidades.
 4.  **Para onde expandir?** Mapear a distribuição geográfica para descobrir os mercados mais fortes.
 
-## 🛠️ Tecnologias e Solução Proposta
+## Tecnologias e Solução Proposta
 
 A solução consiste em consolidar, limpar e explorar os registros históricos de vendas, revelando padrões ocultos através de visualizações claras.
 
@@ -28,7 +28,7 @@ A solução consiste em consolidar, limpar e explorar os registros históricos d
 - **Manipulação e Limpeza:** `Pandas` e `NumPy`
 - **Visualização de Dados:** `Matplotlib`
 
-## 🚀 Resultados e Benefícios de Negócio
+## Resultados e Benefícios de Negócio
 
 A implementação desta análise promove a transição para uma cultura _Data-Driven_, permitindo:
 
